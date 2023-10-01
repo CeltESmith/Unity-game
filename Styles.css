@@ -1,0 +1,32 @@
+.title-text {
+    font-weight: bold;
+    font-size: 40px;
+    border: solid;
+    border-width: 3px;
+    box-shadow: rgb(255, 106, 0, 0.4) 0px -10px inset;
+    padding-left: 250px;
+    border-radius: 50px;
+}
+
+.thumbnail {
+    width: 600px;
+    height: 400px;
+    margin-left: 230px;
+    border: solid;
+    border-width: 4px;
+    border-color: coral;
+    border-radius: 25px;
+}
+
+.rules-text {
+    width: 600px;
+    font-size: 30px;
+    margin-left: 230px;
+}
+
+.Link {
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    margin-left: 450px;
+}
