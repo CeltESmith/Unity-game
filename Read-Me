@@ -1,1 +1,8 @@
-To run the program use the HomeIndex file.
+This is a simple game that was developed using the unity game engine.
+
+To be able to play this game I created a HTML file that contains a link to the site I was able to post it to.
+If you run the file called HomeIndex.html you can click on the link and play the game.
+
+Since the game is really simple their is no menu for it.
+To play the game use the arrow key to rotate the ship around the planet to intercept the hazards.
+if the ship is not successful the planet gets hit and the game automatically restarts.
